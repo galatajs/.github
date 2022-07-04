@@ -29,13 +29,13 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 
 ### Completed Packages:
 
-- [Events package](https://github.com/ssibrahimbas/istanbul/tree/master/packages/events)
-- [Core package](https://github.com/ssibrahimbas/istanbul/tree/master/packages/core)
+- [Events package](https://github.com/istanbulnode/events)
+- [Core package](https://github.com/istanbulnode/core)
 
 ### Packages In Process:
 
-- [App package](https://github.com/ssibrahimbas/istanbul/tree/master/packages/app)
-- [Http package](https://github.com/ssibrahimbas/istanbul/tree/master/packages/http)
+- [App package](https://github.com/istanbulnode/app)
+- [Http package](https://github.com/istanbulnode/http)
 
 ### Will Start Soon Packages:
 
