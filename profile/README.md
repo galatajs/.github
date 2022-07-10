@@ -27,6 +27,9 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - As you need.
 > Do you need http? Install the http package. I do not increase the size of your project with unnecessary packages! This may seem like an exaggeration to some people, what about a few kilobytes? I recommend developers who make this defense to develop a multi application on Docker.
 
+- Your best friend.
+> It behaves however you want. Whether you want a single page, module-baed or you create an archictecture. It also does most of the rough work for you, and you just have to configure and use it.
+
 ### Completed Packages:
 
 - [Events package](https://github.com/istanbulnode/events)
