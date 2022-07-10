@@ -54,7 +54,7 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - Store Package
 - Logger Package
 - Security Package
-- Npx CLI Package (for Framework Pacakge Management) 
+- Npx CLI Package (for Framework Package Management) 
 - SSR Package for Vite
 
 ### Packages that are not decided to be developed but are being considered
