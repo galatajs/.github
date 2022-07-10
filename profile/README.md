@@ -44,11 +44,11 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 ### Will Start Soon Packages:
 
 - Database Package
+- Cache Package
+- CLI Package (for your CLI apps)
 
 ### Packages Planned to be Developed
 
-- Cache Package
-- CLI Package (for your CLI apps)
 - Auth Package
 - Microservice Package
 - Store Package
