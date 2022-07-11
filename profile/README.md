@@ -35,6 +35,7 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Events package](https://github.com/istanbulnode/events)
 - [Core package](https://github.com/istanbulnode/core)
 - [Rule package](https://github.com/istanbulnode/rules)
+- [Inject package](https://github.com/istanbulnode/inject)
 
 ### Packages In Process:
 
