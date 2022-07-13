@@ -44,6 +44,7 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Websocket package](https://github.com/istanbulnode/ws)
 - [I18n package](https://github.com/istanbulnode/i18n)
 - [Validation package](https://github.com/istanbulnode/validate)
+- [Npx CLI Package (for Framework Package Management) ](https://github.com/istanbulnode/create-istanbul)
 
 ### Will Start Soon Packages:
 
@@ -58,7 +59,6 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - Store Package
 - Logger Package
 - Security Package
-- Npx CLI Package (for Framework Package Management) 
 - SSR Package for Vite
 
 ### Packages that are not decided to be developed but are being considered
