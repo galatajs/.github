@@ -43,6 +43,8 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Http package](https://github.com/istanbulnode/http)
 - [Websocket package](https://github.com/istanbulnode/ws)
 - [I18n package](https://github.com/istanbulnode/i18n)
+- [Cors package](https://github.com/istanbulnode/cors)
+- [Template-View package](https://github.com/istanbulnode/view)
 - [Validation package](https://github.com/istanbulnode/validate)
 - [Npx CLI Package (for Framework Package Management) ](https://github.com/istanbulnode/create-istanbul)
 
@@ -56,7 +58,6 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 
 - Auth Package
 - Microservice Package
-- Store Package
 - Logger Package
 - Security Package
 - SSR Package for Vite
