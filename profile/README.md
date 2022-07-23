@@ -46,6 +46,7 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Cors package](https://github.com/istanbulnode/cors)
 - [Template-View package](https://github.com/istanbulnode/view)
 - [Database package](https://github.com/istanbulnode/db)
+- [MySql Driver](https://github.com/istanbulnode/mysql-driver)
 - [Validation package](https://github.com/istanbulnode/validate)
 - [Npx CLI Package (for Framework Package Management) ](https://github.com/istanbulnode/create-istanbul)
 
@@ -54,6 +55,9 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - Cache Package
 - Logger Package
 - CLI Package (for your CLI apps)
+- MongoDB Driver
+- PostgreSql Driver
+- Query Package for Sql Databases
 
 ### Packages Planned to be Developed
 
