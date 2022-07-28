@@ -45,7 +45,6 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [I18n package](https://github.com/istanbulnode/i18n)
 - [Cors package](https://github.com/istanbulnode/cors)
 - [Template-View package](https://github.com/istanbulnode/view)
-- [Database package](https://github.com/istanbulnode/db)
 - [TypeORM Driver](https://github.com/istanbulnode/typeorm)
 - [MongoDB Driver](https://github.com/istanbulnode/mongodb)
 - [Validation package](https://github.com/istanbulnode/validate)
