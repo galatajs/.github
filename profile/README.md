@@ -36,17 +36,18 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Core package](https://github.com/istanbulnode/core)
 - [Rule package](https://github.com/istanbulnode/rules)
 - [Inject package](https://github.com/istanbulnode/inject)
-
-### Packages In Process:
-
 - [App package](https://github.com/istanbulnode/app)
 - [Http package](https://github.com/istanbulnode/http)
 - [Websocket package](https://github.com/istanbulnode/ws)
 - [I18n package](https://github.com/istanbulnode/i18n)
+- [Redis package](https://github.com/istanbulnode/redis)
+- [MongoDB package](https://github.com/istanbulnode/mongodb)
+- [TypeORM package](https://github.com/istanbulnode/typeorm)
+
+### Packages In Process:
+
 - [Cors package](https://github.com/istanbulnode/cors)
 - [Template-View package](https://github.com/istanbulnode/view)
-- [TypeORM Driver](https://github.com/istanbulnode/typeorm)
-- [MongoDB Driver](https://github.com/istanbulnode/mongodb)
 - [Validation package](https://github.com/istanbulnode/validate)
 - [Npx CLI Package (for Framework Package Management) ](https://github.com/istanbulnode/create-istanbul)
 
@@ -54,22 +55,22 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 
 - Cache Package
 - Logger Package
+- Security Package
+- Auth Package
 - CLI Package (for your CLI apps)
 
 ### Packages Planned to be Developed
 
-- Auth Package
 - Microservice Package
-- Security Package
 - SSR Package for Vite
+- SSE (server-sent events) Package
+- Queue Package
+- Performance Package
+- Broker Package
 
 ### Packages that are not decided to be developed but are being considered
 
-- Queue Package
-- Broker Package
-- SSE (server-sent events) Package
 - Stream Package
-- Performance Package
 - Cron Package
 - Monitor Package
 
