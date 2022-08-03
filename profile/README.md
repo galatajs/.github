@@ -43,6 +43,7 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 - [Redis package](https://github.com/istanbulnode/redis)
 - [MongoDB package](https://github.com/istanbulnode/mongodb)
 - [TypeORM package](https://github.com/istanbulnode/typeorm)
+- [Config package](https://github.com/istanbulnode/config)
 
 ### Packages In Process:
 
