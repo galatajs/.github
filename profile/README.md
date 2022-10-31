@@ -2,22 +2,16 @@
 <br>
 <img src="https://avatars.githubusercontent.com/u/108695351?s=200&v=4" width="128" height="128">
 </p>
-<h3 align="center">istanbul</h3>
+<h3 align="center">galatajs</h3>
 <p align="center">
   The Progressive NodeJS Full Stack Framework.
-</p>
-<p align="center">
-<span>
-Made by @ssibrambas
-</span>
-<span style="height: 10px; width: 10px; background-color: #bc6c25; padding: 5px; border-radius: 10px;">! not yet completed !</span>
 </p>
 
 ### Motivation
 
-There are many frameworks for NodeJS. So why am I developing `istanbul` instead of using these packages?
+There are many frameworks for NodeJS. So why am I developing `galatajs` instead of using these packages?
 
-Because no frameworks provides 100% support in all areas. One is good at Rest development while one is good at websocket. My aim with `istanbul` is to provide full support whether you develop a cli with nodejs, develop a microservice application, or develop a chat and bank application.  
+Because no frameworks provides 100% support in all areas. One is good at Rest development while one is good at websocket. My aim with `galatajs` is to provide full support whether you develop a cli with nodejs, develop a microservice application, or develop a chat and bank application.  
 
 ### Features
 
@@ -32,25 +26,25 @@ Because no frameworks provides 100% support in all areas. One is good at Rest de
 
 ### Completed Packages:
 
-- [Events package](https://github.com/istanbulnode/events)
-- [Core package](https://github.com/istanbulnode/core)
-- [Rule package](https://github.com/istanbulnode/rules)
-- [Inject package](https://github.com/istanbulnode/inject)
-- [App package](https://github.com/istanbulnode/app)
-- [Http package](https://github.com/istanbulnode/http)
-- [Websocket package](https://github.com/istanbulnode/ws)
-- [I18n package](https://github.com/istanbulnode/i18n)
-- [Redis package](https://github.com/istanbulnode/redis)
-- [MongoDB package](https://github.com/istanbulnode/mongodb)
-- [TypeORM package](https://github.com/istanbulnode/typeorm)
-- [Config package](https://github.com/istanbulnode/config)
+- [Events package](https://github.com/galatajs/events)
+- [Core package](https://github.com/galatajs/core)
+- [Rule package](https://github.com/galatajs/rules)
+- [Inject package](https://github.com/galatajs/inject)
+- [App package](https://github.com/galatajs/app)
+- [Http package](https://github.com/galatajs/http)
+- [Websocket package](https://github.com/galatajs/ws)
+- [I18n package](https://github.com/galatajs/i18n)
+- [Redis package](https://github.com/galatajs/redis)
+- [MongoDB package](https://github.com/galatajs/mongodb)
+- [TypeORM package](https://github.com/galatajs/typeorm)
+- [Config package](https://github.com/galatajs/config)
 
 ### Packages In Process:
 
-- [Cors package](https://github.com/istanbulnode/cors)
-- [Template-View package](https://github.com/istanbulnode/view)
-- [Validation package](https://github.com/istanbulnode/validate)
-- [Npx CLI Package (for Framework Package Management) ](https://github.com/istanbulnode/create-istanbul)
+- [Cors package](https://github.com/galatajs/cors)
+- [Template-View package](https://github.com/galatajs/view)
+- [Validation package](https://github.com/galatajs/validate)
+- [Npx CLI Package (for Framework Package Management) ](https://github.com/galatajs/create-galatajs)
 
 ### Will Start Soon Packages:
 
